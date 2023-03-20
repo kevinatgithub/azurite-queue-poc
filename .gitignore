@@ -1,0 +1,36 @@
+# Visual Studio files
+.vs/
+
+# Build output
+bin/
+obj/
+
+# Packages
+*.nuget.cache
+*.dll
+*.pdb
+*.exe
+*.cache
+*.log
+*.zip
+*.json
+*.xml
+*.htm
+*.html
+*.user
+*.suo
+*.bak
+*.cache
+*.ipch
+*.vspscc
+*.vssscc
+*.psess
+*.vsp
+*.mdb
+*.mdf
+*.ldf
+*.sdf
+
+# Azure Functions
+host.json
+local.settings.json
