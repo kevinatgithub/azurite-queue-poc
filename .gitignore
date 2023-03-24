@@ -13,7 +13,6 @@ obj/
 *.cache
 *.log
 *.zip
-*.json
 *.xml
 *.htm
 *.html
